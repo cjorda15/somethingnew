@@ -5,6 +5,6 @@
 
   # cjorda15's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[cjorda15.github.io/somethingnew](https://cjorda15.github.io/somethingnew)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
